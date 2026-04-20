@@ -1,5 +1,5 @@
-scipy
-numpy
-soundfile
-matplotlib
-sounddevice
+numpy==2.4.3
+scipy>=1.10.0
+matplotlib==3.10.8
+soundfile>=0.12.0
+sounddevice>=0.4.6
